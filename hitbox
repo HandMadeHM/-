@@ -1,0 +1,4 @@
+void hitbox(float x,float y, float d){
+
+  square(x-d*5,y-d*5,10*d);
+}
